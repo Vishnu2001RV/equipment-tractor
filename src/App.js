@@ -4,6 +4,7 @@ import React from 'react';
 import {
     BrowserRouter,
     // Switch,
+    HashRouter
     Routes,
     Route,
     // Redirect,
@@ -35,7 +36,7 @@ class App extends React.Component {
         
         return (
             <>
-                <BrowserRouter>
+                <HashRouter>
                     <Routes>
                         <Route path="/AboutUs" element={<About />} /> {/*pass variable as param to home*/}
                         <Route path="/Login" element={<Login />} />
@@ -47,7 +48,7 @@ class App extends React.Component {
                         {/* <Route path='/SignOut' element={<Login />} /> */}
                         <Route path='*' exact={true} element={<Login />} />
                     </Routes>
-                </BrowserRouter>
+                </HashRouter>
             </>
         );
     }
