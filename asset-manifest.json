@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/equipment-tractor/static/css/main.10d1b8d1.chunk.css",
+    "main.js": "/equipment-tractor/static/js/main.090ff8ff.chunk.js",
+    "main.js.map": "/equipment-tractor/static/js/main.090ff8ff.chunk.js.map",
+    "runtime-main.js": "/equipment-tractor/static/js/runtime-main.37c3996c.js",
+    "runtime-main.js.map": "/equipment-tractor/static/js/runtime-main.37c3996c.js.map",
+    "static/js/2.f9939f4c.chunk.js": "/equipment-tractor/static/js/2.f9939f4c.chunk.js",
+    "static/js/2.f9939f4c.chunk.js.map": "/equipment-tractor/static/js/2.f9939f4c.chunk.js.map",
+    "static/js/3.d2cb9ab9.chunk.js": "/equipment-tractor/static/js/3.d2cb9ab9.chunk.js",
+    "static/js/3.d2cb9ab9.chunk.js.map": "/equipment-tractor/static/js/3.d2cb9ab9.chunk.js.map",
+    "index.html": "/equipment-tractor/index.html",
+    "static/css/main.10d1b8d1.chunk.css.map": "/equipment-tractor/static/css/main.10d1b8d1.chunk.css.map",
+    "static/js/2.f9939f4c.chunk.js.LICENSE.txt": "/equipment-tractor/static/js/2.f9939f4c.chunk.js.LICENSE.txt",
+    "static/media/Android_Phone.c3346db5.png": "/equipment-tractor/static/media/Android_Phone.c3346db5.png",
+    "static/media/FarmerMultiple.fd749eba.riv": "/equipment-tractor/static/media/FarmerMultiple.fd749eba.riv",
+    "static/media/ploughed.237b55bf.jpg": "/equipment-tractor/static/media/ploughed.237b55bf.jpg",
+    "static/media/unploughed.c4279e0b.jpg": "/equipment-tractor/static/media/unploughed.c4279e0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c3996c.js",
+    "static/js/2.f9939f4c.chunk.js",
+    "static/css/main.10d1b8d1.chunk.css",
+    "static/js/main.090ff8ff.chunk.js"
+  ]
+}
