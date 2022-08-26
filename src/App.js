@@ -4,7 +4,7 @@ import React from 'react';
 import {
     BrowserRouter,
     // Switch,
-    HashRouter
+    HashRouter,
     Routes,
     Route,
     // Redirect,
